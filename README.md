@@ -1,4 +1,4 @@
-In progress! CALL SIGN PENDING is an interactive fiction game set around a college radio station. Check out a small demo [here](https://there.github.io/call-sign-pending).
+In progress! CALL SIGN PENDING is an interactive fiction game set around a college radio station. Check out a small demo [here](https://there.github.io/call-sign-pending/index.html).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
