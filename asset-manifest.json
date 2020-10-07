@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/call-sign-pending/static/css/main.cca52357.chunk.css",
+    "main.js": "/call-sign-pending/static/js/main.bc8e2371.chunk.js",
+    "main.js.map": "/call-sign-pending/static/js/main.bc8e2371.chunk.js.map",
+    "runtime-main.js": "/call-sign-pending/static/js/runtime-main.149c3f7c.js",
+    "runtime-main.js.map": "/call-sign-pending/static/js/runtime-main.149c3f7c.js.map",
+    "static/js/2.c0410d82.chunk.js": "/call-sign-pending/static/js/2.c0410d82.chunk.js",
+    "static/js/2.c0410d82.chunk.js.map": "/call-sign-pending/static/js/2.c0410d82.chunk.js.map",
+    "index.html": "/call-sign-pending/index.html",
+    "precache-manifest.0ad4c23df1ec9b4e19794b9d0ac82f11.js": "/call-sign-pending/precache-manifest.0ad4c23df1ec9b4e19794b9d0ac82f11.js",
+    "service-worker.js": "/call-sign-pending/service-worker.js",
+    "static/css/main.cca52357.chunk.css.map": "/call-sign-pending/static/css/main.cca52357.chunk.css.map",
+    "static/js/2.c0410d82.chunk.js.LICENSE.txt": "/call-sign-pending/static/js/2.c0410d82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.149c3f7c.js",
+    "static/js/2.c0410d82.chunk.js",
+    "static/css/main.cca52357.chunk.css",
+    "static/js/main.bc8e2371.chunk.js"
+  ]
+}
